@@ -1,0 +1,29 @@
+/** variabeles **/
+.cursor-p{
+    cursor: pointer;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.w-50{
+    width: 50% !important;
+}
+
+
+.w-100{
+    width: 100% !important;
+}
+
+.mt-5{
+    margin-top:  100px !important;
+}
+
+.red{
+    color: red;
+}
